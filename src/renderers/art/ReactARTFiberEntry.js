@@ -130,6 +130,10 @@ function getScaleY(props) {
   }
 }
 
+function test(blah) {
+  return blah
+}
+
 function isSameFont(oldFont, newFont) {
   if (oldFont === newFont) {
     return true;
